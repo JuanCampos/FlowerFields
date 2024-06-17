@@ -1,0 +1,20 @@
+.letra {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.usuario {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 30px 30px 0;
+}
+
+.nom {
+    display: flex;
+    align-items: center;
+    width: flex;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 0 10px 10px 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}

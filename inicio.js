@@ -1,0 +1,1 @@
+alert("Bienvenida/o a la página oficial de Flower Fields");
